@@ -63,5 +63,10 @@
       "specPath": "docs/Using OpenAPI/OpenAPI Demo/petstore.yaml",
       "outputDir": "docs/Using OpenAPI/OpenAPI Demo"
     }
+  },
+  "analytics": {
+    "ga4": {
+      "measurementId": "G-abc"
+    }
   }
 }

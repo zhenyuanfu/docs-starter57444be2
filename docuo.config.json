@@ -49,6 +49,17 @@
           "href": "https://github.com/spreadingai"
         }
       ]
+    },
+    "themeConfig": {
+      "colorMode": {
+        "defaultMode": "light",
+        "disableSwitch": false,
+        "respectPrefersColorScheme": true
+      }
+    },
+    "colors": {
+      "primaryLight": "#95e1d3",
+      "primaryDark": "#fce38a"
     }
   },
   "search": {

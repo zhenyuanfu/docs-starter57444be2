@@ -50,12 +50,10 @@
         }
       ]
     },
-    "themeConfig": {
-      "colorMode": {
-        "defaultMode": "light",
-        "disableSwitch": false,
-        "respectPrefersColorScheme": true
-      }
+    "colorMode": {
+      "defaultMode": "light",
+      "disableSwitch": false,
+      "respectPrefersColorScheme": true
     },
     "colors": {
       "primaryLight": "#95e1d3",

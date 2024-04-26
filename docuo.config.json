@@ -7,12 +7,24 @@
       "logo": "image/logo.png",
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarIds": [
-            "mySidebar"
-          ],
-          "label": "Documentation",
-          "position": "left"
+          "type": "default",
+          "label": "inter link",
+          "to": "/getting-started/development"
+        },
+        {
+          "label": "github",
+          "href": "https://github.com/spreadingai"
+        },
+        {
+          "type": "dropdown",
+          "label": "dropdown label",
+          "items": [
+            {
+              "type": "default",
+              "label": "inter link2",
+              "to": "getting-started/development"
+            }
+          ]
         }
       ],
       "iconRedirectUrl": ""

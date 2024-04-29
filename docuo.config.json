@@ -1,19 +1,25 @@
 {
   "title": "Monaco",
-  "favicon": "image/favicon.ico",
+  "favicon": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/favicon.svg?ts=1714376288352",
   "themeConfig": {
     "navbar": {
-      "title": "My project1122哈哈",
-      "logo": "image/logo.png",
+      "title": "My pro",
+      "logo": {
+        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_dark_logo.svg?ts=1714376427164",
+        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_light_logo.svg?ts=1714376423672"
+      },
       "items": [
         {
           "type": "default",
           "label": "inter link",
-          "to": "/getting-started/development"
+          "to": "/overview/basic-features",
+          "id": "d21520a4",
+          "href": ""
         },
         {
-          "label": "github",
-          "href": "https://github.com/spreadingai"
+          "label": "github12",
+          "href": "https://github.com/spreadingai",
+          "id": "bab337d2"
         },
         {
           "type": "dropdown",
@@ -22,23 +28,73 @@
             {
               "type": "default",
               "label": "inter link2",
-              "to": "getting-started/development"
+              "to": "/overview/introduction",
+              "id": "bb1881ab",
+              "href": ""
+            },
+            {
+              "id": "3c4bed38",
+              "label": "external",
+              "href": "https://fzytest11122.spreading.io/callkit/sitemap.xml",
+              "to": ""
             }
-          ]
+          ],
+          "id": "69e33fd3"
         }
       ],
-      "iconRedirectUrl": ""
+      "iconRedirectUrl": "https://fzytest11122.spreading.io"
     },
     "footer": {
-      "logo": "image/logo.png",
-      "caption": "My project",
+      "logo": {
+        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_dark_logo.svg?ts=1714376481542",
+        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_light_logo.svg?ts=1714376439858"
+      },
+      "caption": "footer caption",
       "links": [
         {
           "title": "Product",
           "items": [
             {
               "label": "documentation",
-              "to": "/"
+              "to": "/",
+              "id": "b82c8677"
+            }
+          ],
+          "id": "8e78fe4c"
+        },
+        {
+          "id": "f5a9e6d5",
+          "title": "title2",
+          "items": [
+            {
+              "id": "db1ea712",
+              "label": "link1",
+              "href": "https://twitter.com/docuo_team",
+              "to": ""
+            },
+            {
+              "id": "81e9ea8b",
+              "label": "lnik2",
+              "href": "https://twitter.com/docuo_team",
+              "to": ""
+            }
+          ]
+        },
+        {
+          "id": "8185d221",
+          "title": "title3",
+          "items": [
+            {
+              "id": "20e9034d",
+              "label": "link1",
+              "href": "",
+              "to": ""
+            },
+            {
+              "id": "77a1560e",
+              "label": "link2",
+              "href": "",
+              "to": ""
             }
           ]
         }
@@ -46,37 +102,49 @@
       "socials": [
         {
           "logo": "Twitter",
-          "href": "https://twitter.com/docuo_team"
+          "href": "https://twitter.com/docuo_team",
+          "id": "2977b753"
         },
         {
           "logo": "LinkedIn",
-          "href": "https://www.linkedin.com/company/spreadingai"
+          "href": "https://www.linkedin.com/company/spreadingai",
+          "id": "c5bcdaae"
         },
         {
           "logo": "Discord",
-          "href": "https://discord.gg/pgJFhUwzAU"
+          "href": "https://discord.gg/pgJFhUwzAU",
+          "id": "37c258a6"
         },
         {
           "logo": "GitHub",
-          "href": "https://github.com/spreadingai"
+          "href": "https://github.com/spreadingai",
+          "id": "1ffd9866"
+        },
+        {
+          "id": "3d3e9bf0",
+          "logo": "Dribbble",
+          "href": "Copyright © 2024 Meta Platforms, Inc. Built with Docusaurus."
         }
-      ]
+      ],
+      "logoUrl": "https://fzytest11122.spreading.io/callkit/sitemap.xml",
+      "copyright": "Copyright © 2024 Meta Platforms, Inc. Built with Docusaurus."
     },
     "colorMode": {
-      "defaultMode": "light",
+      "defaultMode": "system",
       "disableSwitch": false,
       "respectPrefersColorScheme": true
     },
     "colors": {
-      "primaryLight": "#95e1d3",
-      "primaryDark": "#fce38a"
-    }
+      "primaryLight": "#133e35",
+      "primaryDark": "#7fda1f"
+    },
+    "removeWatermark": false
   },
   "search": {
     "algolia": {
-      "appId": "YOUR_APP_ID",
-      "apiKey": "YOUR_API_KEY",
-      "indexName": "YOUR_INDEX_NAME"
+      "appId": "appidappid",
+      "apiKey": "apikey",
+      "indexName": "indexname"
     }
   },
   "openapi": {

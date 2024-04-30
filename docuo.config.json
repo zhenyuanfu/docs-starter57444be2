@@ -5,8 +5,8 @@
     "navbar": {
       "title": "My pro",
       "logo": {
-        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_dark_logo.svg?ts=1714376427164",
-        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_light_logo.svg?ts=1714376423672"
+        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_dark_logo.ico?ts=1714459125515",
+        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_light_logo.svg?ts=1714459121808"
       },
       "items": [
         {
@@ -49,7 +49,7 @@
         "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_dark_logo.svg?ts=1714376481542",
         "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_light_logo.svg?ts=1714376439858"
       },
-      "caption": "footer caption",
+      "caption": "Effortlessly write then publish technical, product documentation",
       "links": [
         {
           "title": "Product",
@@ -130,7 +130,7 @@
       "copyright": "Copyright © 2024 Meta Platforms, Inc. Built with Docusaurus."
     },
     "colorMode": {
-      "defaultMode": "system",
+      "defaultMode": "dark",
       "disableSwitch": false,
       "respectPrefersColorScheme": true
     },

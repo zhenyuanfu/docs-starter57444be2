@@ -46,8 +46,8 @@
     },
     "footer": {
       "logo": {
-        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_dark_logo.svg?ts=1714376481542",
-        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_light_logo.svg?ts=1714376439858"
+        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_dark_logo.ico?ts=1714977620099",
+        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_light_logo.png?ts=1714977615715"
       },
       "caption": "Effortlessly write then publish technical, product documentation",
       "links": [
@@ -130,12 +130,12 @@
       "copyright": "Copyright © 2024 Meta Platforms, Inc. Built with Docusaurus."
     },
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": false,
       "respectPrefersColorScheme": true
     },
     "colors": {
-      "primaryLight": "#133e35",
+      "primaryLight": "#25f1c6",
       "primaryDark": "#7fda1f"
     },
     "removeWatermark": false

@@ -130,15 +130,15 @@
       "copyright": "Copyright © 2024 Meta Platforms, Inc. Built with Docusaurus."
     },
     "colorMode": {
-      "defaultMode": "light",
+      "defaultMode": "dark",
       "disableSwitch": false,
       "respectPrefersColorScheme": true
     },
     "colors": {
-      "primaryLight": "#25f1c6",
-      "primaryDark": "#7fda1f"
+      "primaryLight": "#a09eff",
+      "primaryDark": "#ffdd66"
     },
-    "removeWatermark": false
+    "removeWatermark": true
   },
   "search": {
     "algolia": {

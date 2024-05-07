@@ -5,8 +5,8 @@
     "navbar": {
       "title": "My pro",
       "logo": {
-        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_dark_logo.ico?ts=1714459125515",
-        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_light_logo.svg?ts=1714459121808"
+        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_light_logo.png?ts=1715078835453",
+        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_dark_logo.ico?ts=1714459125515"
       },
       "items": [
         {
@@ -130,7 +130,7 @@
       "copyright": "Copyright © 2024 Meta Platforms, Inc. Built with Docusaurus."
     },
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": false,
       "respectPrefersColorScheme": true
     },
@@ -145,7 +145,8 @@
       "appId": "appidappid",
       "apiKey": "apikey",
       "indexName": "indexname"
-    }
+    },
+    "hidden": false
   },
   "openapi": {
     "petstore": {

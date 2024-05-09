@@ -1,23 +1,23 @@
 {
   "title": "Monaco",
-  "favicon": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/favicon.svg?ts=1714376288352",
+  "favicon": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/favicon.png?ts=1715154794788",
   "themeConfig": {
     "navbar": {
-      "title": "My pro",
+      "title": "",
       "logo": {
-        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_light_logo.png?ts=1715078835453",
-        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_dark_logo.ico?ts=1714459125515"
+        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_dark_logo.png?ts=1715154909894",
+        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/navbar_light_logo.png?ts=1715154887228"
       },
       "items": [
         {
           "type": "default",
-          "label": "inter link",
+          "label": "inter",
           "to": "/overview/basic-features",
           "id": "d21520a4",
           "href": ""
         },
         {
-          "label": "github12",
+          "label": " external",
           "href": "https://github.com/spreadingai",
           "id": "bab337d2"
         },
@@ -42,12 +42,12 @@
           "id": "69e33fd3"
         }
       ],
-      "iconRedirectUrl": "https://fzytest11122.spreading.io"
+      "iconRedirectUrl": ""
     },
     "footer": {
       "logo": {
-        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_dark_logo.ico?ts=1714977620099",
-        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_light_logo.png?ts=1714977615715"
+        "light": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_light_logo.png?ts=1715162698841",
+        "dark": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace131/ac7b830e0a1b1d763568b48e913cc694/footer_dark_logo.ico?ts=1714977620099"
       },
       "caption": "Effortlessly write then publish technical, product documentation",
       "links": [
@@ -61,42 +61,6 @@
             }
           ],
           "id": "8e78fe4c"
-        },
-        {
-          "id": "f5a9e6d5",
-          "title": "title2",
-          "items": [
-            {
-              "id": "db1ea712",
-              "label": "link1",
-              "href": "https://twitter.com/docuo_team",
-              "to": ""
-            },
-            {
-              "id": "81e9ea8b",
-              "label": "lnik2",
-              "href": "https://twitter.com/docuo_team",
-              "to": ""
-            }
-          ]
-        },
-        {
-          "id": "8185d221",
-          "title": "title3",
-          "items": [
-            {
-              "id": "20e9034d",
-              "label": "link1",
-              "href": "",
-              "to": ""
-            },
-            {
-              "id": "77a1560e",
-              "label": "link2",
-              "href": "",
-              "to": ""
-            }
-          ]
         }
       ],
       "socials": [
@@ -106,27 +70,12 @@
           "id": "2977b753"
         },
         {
-          "logo": "LinkedIn",
-          "href": "https://www.linkedin.com/company/spreadingai",
-          "id": "c5bcdaae"
-        },
-        {
-          "logo": "Discord",
-          "href": "https://discord.gg/pgJFhUwzAU",
-          "id": "37c258a6"
-        },
-        {
           "logo": "GitHub",
           "href": "https://github.com/spreadingai",
           "id": "1ffd9866"
-        },
-        {
-          "id": "3d3e9bf0",
-          "logo": "Dribbble",
-          "href": "Copyright © 2024 Meta Platforms, Inc. Built with Docusaurus."
         }
       ],
-      "logoUrl": "https://fzytest11122.spreading.io/callkit/sitemap.xml",
+      "logoUrl": "https://docuo.spreading.io",
       "copyright": "Copyright © 2024 Meta Platforms, Inc. Built with Docusaurus."
     },
     "colorMode": {
@@ -135,7 +84,7 @@
       "respectPrefersColorScheme": true
     },
     "colors": {
-      "primaryLight": "#a09eff",
+      "primaryLight": "#33a53d",
       "primaryDark": "#ffdd66"
     },
     "removeWatermark": true
